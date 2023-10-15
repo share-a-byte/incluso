@@ -8,6 +8,13 @@ body {
     font-weight: bold;
 }
 
+.graph-title {
+    font-size: 24px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
 .article-date {
     font-size: 18px;
     color: #8ab5f7ff;
@@ -21,6 +28,13 @@ body {
 .right-align {
     margin-left: auto;
     margin-right: 0;
+}
+
+.try-this {
+    color: #98E4FF;
+    font-size: 18px;
+    margin-left: 40px;
+    font-style: italic;
 }
 
 .article-content {

@@ -45,7 +45,7 @@ const articles = [
         author: "Aisha Morris Moultry",
         date: "October 2021",
         image: search5,
-        description: "Effect of Pharmacist Home Visits on Weight Control in Overweight Elderly Hypertensive African American Patients: Managing Your Blood Pressure (My Bp) Program",
+        description: "The objective was to investigate the effect of a home-based pharmacy intervention on body mass index (BMI) in a cohort of older hypertensive overweight African American (AA) patients. Design: A secondary analysis of data collected in a community-based intervention study. Setting: Community-based. Participants: AA patients, ≥ 65 years old, residing independently, with hypertension diagnosis and BMI ≥ 25...",
         tags: "Black, Female"
     },
 ]
