@@ -25,4 +25,24 @@ body {
 
 .article-content {
     color: white;
+    text-align: justify;
+    float: none;
+    font-size: 16px;
+}
+
+.image-styling {
+    float: left;
+    width: 170px;
+}
+
+.bottom-text {
+    color: #8ab5f7ff;
+    text-align: center;
+    font-size: 23px;
+    display: block;
+    margin: auto;
+}
+
+.underlined {
+    text-decoration: underline;
 }
