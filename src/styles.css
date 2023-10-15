@@ -1,3 +1,28 @@
 body {
     background-color: #101010ff;
 }
+
+.article-title {
+    font-size: 24px;
+    color: #BEADFA;
+    font-weight: bold;
+}
+
+.article-date {
+    font-size: 18px;
+    color: #8ab5f7ff;
+}
+
+.article-authors {
+    color: white;
+    font-size: 18px;
+}
+
+.right-align {
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.article-content {
+    color: white;
+}
